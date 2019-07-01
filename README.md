@@ -12,7 +12,7 @@ Contains the source code required to create the client side javascript and react
 
 ### /dev
 
-The dev folder contains an an index.html file that will be used to when running the webpack with the dev config. The `src/index.html` file is identical to the one in `public/index.php`.
+The dev folder contains an index.html file that will be used when running the webpack with the dev config. The `src/index.html` file is identical to the one in `public/index.php`.
 
 # NPM Commands
 
